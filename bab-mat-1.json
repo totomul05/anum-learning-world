@@ -1,0 +1,92 @@
+{
+ "id": "mat-1",
+ "judul": "Mengenal Bilangan 1 sampai 10",
+ "status": "DEVELOPMENT",
+ "rujukan": "Matematika Fase A, elemen Bilangan (BSKAP 046/H/KR/2025). Rujukan sekunder, belum dicocokkan dengan PDF resmi.",
+ "tujuan": [
+  "Membilang benda sampai 10.",
+  "Membaca dan menulis angka 1 sampai 10.",
+  "Membandingkan banyak benda: lebih banyak, lebih sedikit, sama banyak."
+ ],
+ "pengantar": "Di sekitar kita banyak benda yang bisa dihitung: buah di meja, ayam di halaman, atau teman di kelas. Hari ini kita belajar menghitung dengan teliti.",
+ "penjelasan": [
+  "Cara membilang: tunjuk satu benda, sebut satu angka. Setiap benda hanya dihitung satu kali. Angka terakhir yang disebut adalah banyak bendanya.",
+  "Urutan angka: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Angka yang lebih dulu disebut lebih kecil.",
+  "Membandingkan: kelompok yang bendanya lebih banyak disebut lebih banyak. Jika sama, disebut sama banyak."
+ ],
+ "contoh": [
+  "Di sawah ada 🐔🐔🐔🐔. Kita membilang: 1, 2, 3, 4. Jadi ada 4 ayam.",
+  "Ibu membeli 🍌🍌🍌 dan Ayah membeli 🍌🍌🍌🍌🍌. Pisang Ayah lebih banyak."
+ ],
+ "aktivitas": "Gambarkan 5 buah mangga di papan tulis. Lalu tulis angka 5 di sampingnya. Hitung gambarmu sambil menunjuk satu per satu.",
+ "latihan": [
+  {
+   "t": "pg",
+   "q": "Ada berapa? 🍎🍎🍎",
+   "o": [
+    "2",
+    "3",
+    "4"
+   ],
+   "a": 1,
+   "e": "Tunjuk satu per satu: 1, 2, 3. Jadi ada 3."
+  },
+  {
+   "t": "pg",
+   "q": "Ada berapa? ⭐⭐⭐⭐⭐",
+   "o": [
+    "4",
+    "5",
+    "6"
+   ],
+   "a": 1,
+   "e": "Hitung pelan-pelan: 1, 2, 3, 4, 5. Jadi ada 5."
+  },
+  {
+   "t": "isi",
+   "q": "Tulis angkanya. Ada berapa ikan? 🐟🐟🐟🐟🐟🐟🐟",
+   "a": 7,
+   "e": "Hitung satu per satu sampai 7."
+  },
+  {
+   "t": "pg",
+   "q": "Kelompok mana yang paling banyak?",
+   "o": [
+    "🌸🌸",
+    "🌸🌸🌸🌸",
+    "🌸🌸🌸"
+   ],
+   "a": 1,
+   "e": "Kelompok kedua punya 4 bunga, paling banyak."
+  },
+  {
+   "t": "bs",
+   "q": "Angka 8 lebih besar dari angka 6.",
+   "o": [
+    "Benar",
+    "Salah"
+   ],
+   "a": 0,
+   "e": "8 disebut setelah 6, jadi 8 lebih besar."
+  },
+  {
+   "t": "bs",
+   "q": "🐟🐟 dan 🐟🐟🐟 sama banyak.",
+   "o": [
+    "Benar",
+    "Salah"
+   ],
+   "a": 1,
+   "e": "Kiri ada 2, kanan ada 3. Jumlahnya tidak sama."
+  },
+  {
+   "t": "isi",
+   "q": "Setelah angka 9, angka berikutnya adalah ...",
+   "a": 10,
+   "e": "Urutannya: 8, 9, 10."
+  }
+ ],
+ "ringkasan": "Kita membilang dengan menunjuk satu per satu. Angka 1 sampai 10 berurutan. Kita bisa membandingkan: lebih banyak, lebih sedikit, atau sama banyak.",
+ "remedial": "Jika masih bingung, hitung benda nyata di rumah (sendok, piring, sandal) sampai 5 dulu, lalu naik sampai 10.",
+ "pengayaan": "Hitung ada berapa jendela dan pintu di rumahmu. Mana yang lebih banyak?"
+}
